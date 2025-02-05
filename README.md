@@ -144,7 +144,7 @@ Once cleaned and transformed, the dataset was loaded into Power BI’s data mode
 <b>Data Quality Checks</b>
 To verify data integrity, the following validation steps were performed:
 - Record Consistency Check: Compared the total number of records between the source file and the Power BI dataset to ensure no data loss during extraction.
-- Aggregate Validation: Cross-checked key metrics, such as total sales revenue and total transaction count in Excel using pivot tables, to confirm alignment with expected figures.
+- Aggregate Validation: Cross-checked key metrics, such as total sales revenue and total transaction count in Excel different formulas and functions, to confirm alignment with expected figures.
 <br />
 
 This structured ETL process ensured that the dataset was accurate, clean, and ready for meaningful analysis in Power BI.
