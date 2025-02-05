@@ -92,6 +92,9 @@ To answer the four main business questions, the following visuals have been chos
    - Customer: Drop-down selection of customer ID's
 
 <br />
+The mock-ups provided in the following section illustrate the layout and functionality of these visuals, demonstrating how each one will support the strategic decision-making process for the CEO and CMO.
+<br />
+<br />
 
 Initial Report Layout / Mock-up Sketch: 
 <br />
@@ -109,9 +112,6 @@ Final Report Layout
 <br />
 
 ![image](https://github.com/user-attachments/assets/4454cbd2-ced9-425b-86d9-be4c40923439)
-<br />
-
-The mock-ups provided in the following section illustrate the layout and functionality of these visuals, demonstrating how each one will support the strategic decision-making process for the CEO and CMO.
 <br />
 <br />
 
@@ -171,7 +171,7 @@ As part of the data transformation process, key performance indicators (KPIs) we
 Following the data cleaning and transformation steps, the next phase of the project focuses on creating interactive data visualizations. The goal of these visualizations is to provide a clear and intuitive way to analyze key business metrics, uncover trends, and support data-driven decision-making. Visualizations play a crucial role in conveying complex information in an easily digestible format, enabling stakeholders to quickly identify patterns and insights.
 <br />
 
-The following visuals were developed for the dashboard, each tailored to address the specific business questions outlined earlier in the project:
+The following visuals were developed for the report, each tailored to address the specific business questions outlined earlier in the project:
 
 - <b>Time Series Revenue Analysis:</b> To observe trends and seasonal patterns in revenue over time.
 - <b>Top Revenue Countries:</b> To compare the highest revenue-generating countries, alongside the quantity of products sold.
