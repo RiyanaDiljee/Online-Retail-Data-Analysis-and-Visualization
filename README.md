@@ -66,7 +66,7 @@ Sales Data:
 <h2>Data Planning and Design</h2>
 
 <br />
-To answer the four main business questions, the following visuals have been chosen:
+To answer the four main business questions (see Requirements Document), the following visuals have been chosen:
 <br />
 
 - Line Charts:
