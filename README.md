@@ -51,7 +51,7 @@ KPIs Tracked:
 <br />
 
 Sales Data:
-- File Name: OnlineRetailData.xlsx
+- File Name: <i>OnlineRetailData.xlsx</i>
 - Fields: InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, CustomerID, Country
 
 <br />
